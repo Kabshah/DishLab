@@ -1,0 +1,24 @@
+so first of all give secrect code as it is in verify.
+
+res.header('Auth') it will need the token u generate with 
+bcrypt.also write res.header('Auth') instead of ('Authorization')
+as it is
+
+controller ke logic k bth middlewares lagao
+
+well not an error but use ctrl+f its so useful search a word and 
+replace everything
+
+Bid on projects for B2B/B2C services (Power Platforms, ERPs, 
+business reporting, Power BI, Jet training).
+
+loginhandle ma form prr onSubmit nhi tha aur setGmail setpass or e.tar.val b use nai kra tha
+
+cors(server ma banaya h) k bth App_State ma App Provider(fields jo basic ma hardcode 
+thi idhr dynamic h) ko pehla bana kr phir components banai h
+
+useContext app.provider ke fields ko accisible krta h dosri files ma bbhi
+
+Must check required fields pls coz it creates a problem in inputting from front-end
+
+agr bilawaja login krny ka msg aye toh smajh jao token ka issue h  mx-1
